@@ -1,25 +1,23 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Erichardson772/Erichardson772.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to my live web page
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have to assume this is what the lab meant when it said to use jakll
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
+- this 
+- is 
+  - all 
+  - one list
 
 1. Numbered
 2. List
+3. keep going  
+  4.  and can indent  
+  5.  like unordered 
 
 **Bold** and _Italic_ and `Code` text
 
