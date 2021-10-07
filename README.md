@@ -3,6 +3,8 @@
 this contains all of the contents that are needed for this first lab of the course hopefully 
 
 we should have everything here including 
+```markdown
+
 
 *html 
 *css
@@ -10,6 +12,7 @@ we should have everything here including
 *live webpage 
 *other examples
 
+```
 
 These should all be in their respective folders which are labled according to their content.
 
